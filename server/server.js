@@ -6,7 +6,6 @@ import session from 'express-session';
 import passport from 'passport';
 import path from 'path';
 import mongoose from 'mongoose';
-import cors from 'cors';
 import configure from './configure';
 
 // api 라우트 로드
