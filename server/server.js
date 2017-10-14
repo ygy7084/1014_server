@@ -7,7 +7,7 @@ import passport from 'passport';
 import path from 'path';
 import mongoose from 'mongoose';
 import configure from './configure';
-// haha
+// haha 양기엽
 // api 라우트 로드
 import api from './routes';
 
